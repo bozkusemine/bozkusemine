@@ -6,7 +6,7 @@
 <h3 align="center">Data Scientist | PhD Researcher </h3>
   
  # 💫 About Me:
-🌱 I’m currently learning Time Series & NLP<br>💬 Ask me about Data Science, Artifical Intelligence, Human-Robot Collaboration
+🌱 I’m currently learning ROS & Open images<br>💬 Ask me about Data Science, Artifical Intelligence, Human-Robot Collaboration
 
 
 ## 🌐 Socials:
