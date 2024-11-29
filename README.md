@@ -6,7 +6,7 @@
 <h3 align="center">Data Scientist | PhD Researcher </h3>
   
  # 💫 About Me:
-🌱 I’m currently learning ROS & CoppeliaSim <br>💬 Ask me about Data Science, Artifical Intelligence, Human-Robot Collaboration
+🌱 I’m currently learning ROS2 <br>💬 Ask me about Data Science, Artifical Intelligence, Human-Robot Collaboration
 
 
 ## 🌐 Socials:
