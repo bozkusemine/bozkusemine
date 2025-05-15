@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Emine Bozkus</h1>
-<h3 align="center">Data Scientist | PhD Researcher </h3>
+<h3 align="center">AI & Data Science Researcher | Human-Robot Collaboration | PhD Candidate </h3>
   
  # 💫 About Me:
 🌱 I’m currently learning ROS2 <br>💬 Ask me about Data Science, Artifical Intelligence, Human-Robot Collaboration
