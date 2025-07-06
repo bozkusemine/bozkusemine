@@ -2,8 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-<h1 align="center">Hi 👋, I'm Emine Bozkus</h1>
-<h3 align="center">AI & Data Science Researcher | Human-Robot Collaboration | PhD Candidate </h3>
+<h1 align="center">Hi 👋, I'm Dr. Emine Bozkus</h1>
+<h3 align="center">AI & Robotics Researcher | Machine Learning Engineer | Advanced R&D  </h3>
   
 
 ## 🌐 Socials:
