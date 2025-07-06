@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Emine Bozkus</h1>
 <h3 align="center">AI & Data Science Researcher | Human-Robot Collaboration | PhD Candidate </h3>
   
- # 💫 About Me:
-🌱 I’m currently learning ROS2 <br>💬 Ask me about Data Science, Artifical Intelligence, Human-Robot Collaboration
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eminebozkus) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@eminebozkus) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19586086) 
